@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Trophy, CheckCircle, XCircle, RotateCcw } from 'lucide-react';

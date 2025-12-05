@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { AlertCircle, Lightbulb, Award, Target, FileText, X, MapPin, ArrowRight, ExternalLink } from 'lucide-react';
